@@ -1,16 +1,12 @@
-<!-- ANIMATED HEADER -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E40AF,100:06B6D4&height=220&section=header&text=Muhammad%20Yasir&fontSize=75&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Aspiring%20AI%20%26%20Computer%20Vision%20Engineer&descAlignY=58&descSize=20" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=06B6D4&height=200&section=header&text=Muhammad%20Yasir&fontSize=70&fontColor=ffffff&animation=fadeIn" width="100%" />
 </div>
 
-<!-- TYPING ANIMATION -->
 <div align="center">
-  <a href="https://github.com/MuhammadYasir85a">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3500&pause=800&color=06B6D4&center=true&vCenter=true&width=800&height=50&lines=Computer+Vision+%7C+Deep+Learning+%7C+Machine+Learning;Building+real-world+AI+systems+with+PyTorch+%26+YOLOv11;Learning+by+doing.+Growing+by+building.;Open+to+ML+%2F+CV+%2F+SDE+Internship+opportunities" alt="Typing SVG" />
-  </a>
+  <h3>Aspiring AI & Computer Vision Engineer</h3>
+  <h4>Computer Science Undergraduate at Namal University Mianwali</h4>
 </div>
 
-<!-- SOCIAL BADGES -->
 <div align="center">
   <a href="https://www.linkedin.com/in/muhammad-yasir-6a9500343/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -26,16 +22,13 @@
 
 <br/>
 
-<!-- ABOUT SECTION WITH SIDE GIF -->
-<table>
-<tr>
-<td width="60%" valign="top">
+---
 
 ## About Me
 
 I am a Computer Science undergraduate at **Namal University Mianwali** (CGPA 3.10/4.0, Merit-Based Scholarship Recipient), committed to building strong foundations in **Computer Vision**, **Deep Learning**, and **Machine Learning**.
 
-I am not yet an engineer — I am a student actively learning, building real projects, and growing toward that goal. My approach is hands-on: I learn by implementing papers, breaking models, fixing bugs, and shipping working systems.
+I am not yet an engineer. I am a student actively learning, building real projects, and growing toward that goal. My approach is hands-on: I learn by implementing papers, breaking models, fixing bugs, and shipping working systems.
 
 **Currently:**
 - **Working on:** Adversarial Privacy Mask (custom loss function research)
@@ -52,24 +45,12 @@ I am not yet an engineer — I am a student actively learning, building real pro
 - Software Engineering, Machine Learning, Computer Vision, or Backend Internships
 - Locations: Remote or Pakistan-based
 
-</td>
-<td width="40%" valign="top">
-
-<br/>
-
-<div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" alt="AI Animation" />
-</div>
-
-</td>
-</tr>
-</table>
-
 ---
 
 ## Tech Stack
 
 ### Languages
+
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
@@ -80,6 +61,7 @@ I am not yet an engineer — I am a student actively learning, building real pro
 </p>
 
 ### Machine Learning and Computer Vision
+
 <p>
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV" />
@@ -91,6 +73,7 @@ I am not yet an engineer — I am a student actively learning, building real pro
 </p>
 
 ### Backend and Cloud
+
 <p>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
@@ -103,6 +86,7 @@ I am not yet an engineer — I am a student actively learning, building real pro
 </p>
 
 ### Tools and Platforms
+
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
@@ -122,6 +106,7 @@ I am not yet an engineer — I am a student actively learning, building real pro
 <td width="50%" valign="top">
 
 ### Adversarial Privacy Mask
+
 **Status:** Ongoing Research
 
 A team project where I am co-developing a custom loss function integrated with PGD attacks for adversarial perturbation generation. The approach empirically outperforms standard FGSM and PGD baselines on facial recognition models. Currently scaling validation from LFW to CASIA-WebFace using PyTorch.
@@ -134,6 +119,7 @@ A team project where I am co-developing a custom loss function integrated with P
 <td width="50%" valign="top">
 
 ### Date Palm Tree Detection System
+
 **Status:** Completed
 
 End-to-end computer vision system that detects and counts date palm trees from aerial imagery using YOLOv11 deep learning. Integrated BoT-SORT multi-object tracking for video frame consistency. Built Flask REST API with React Native mobile frontend.
@@ -148,6 +134,7 @@ End-to-end computer vision system that detects and counts date palm trees from a
 <td width="50%" valign="top">
 
 ### Distributed Student Issue Management System
+
 **Status:** Ongoing
 
 A team project where I architected a scalable distributed web application using MongoDB sharding and replica sets. Deployed on Microsoft Azure App Service with JWT authentication and Role-Based Access Control across three distinct user roles.
@@ -160,6 +147,7 @@ A team project where I architected a scalable distributed web application using 
 <td width="50%" valign="top">
 
 ### E-Commerce Enterprise Network
+
 **Status:** Completed
 
 Designed a secure enterprise network in Cisco Packet Tracer with DNS-based load balancing, AAA security, VLAN segmentation across four departments, and four Layer-2 protection mechanisms including DHCP Snooping, DAI, Port Security, and NAT.
@@ -174,6 +162,7 @@ Designed a secure enterprise network in Cisco Packet Tracer with DNS-based load 
 <td width="50%" valign="top">
 
 ### Probabilistic Weather Prediction
+
 **Status:** Completed
 
 A statistical machine learning model that forecasts precipitation events using conditional probability and Naive Bayes classification on four atmospheric variables: temperature, humidity, air pressure, and wind speed. Includes complete data preprocessing and visualization pipeline.
@@ -185,7 +174,8 @@ A statistical machine learning model that forecasts precipitation events using c
 </td>
 <td width="50%" valign="top">
 
-### Mindflow — Generative Art Application
+### Mindflow Generative Art Application
+
 **Status:** Completed
 
 Full generative art web application built in pure HTML, CSS, and JavaScript with no frameworks or dependencies. Features four drawing modes, undo/redo history, PNG export, local gallery storage, and 60 FPS performance. Deployed on Microsoft Azure.
@@ -203,16 +193,16 @@ Full generative art web application built in pure HTML, CSS, and JavaScript with
 ## GitHub Statistics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MuhammadYasir85a&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" height="180" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MuhammadYasir85a&theme=tokyonight&hide_border=true" alt="Streak" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MuhammadYasir85a&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" height="170" />
+  <img src="https://streak-stats.demolab.com/?user=MuhammadYasir85a&theme=dark&hide_border=true" alt="Streak" height="170" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadYasir85a&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadYasir85a&layout=compact&theme=dark&hide_border=true&langs_count=8" alt="Top Languages" height="170" />
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MuhammadYasir85a&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=10" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=MuhammadYasir85a&theme=darkhub&no-frame=true&row=1&column=7&margin-w=10" alt="GitHub Trophies" />
 </div>
 
 ---
@@ -224,7 +214,7 @@ I am committed to continuous learning through high-quality open educational reso
 - **MIT 6.S191** — Introduction to Deep Learning (CNN, RNN, modern architectures)
 - **Andrew Ng Machine Learning Specialization** — Supervised Learning, Neural Networks
 - **Ultralytics YOLOv8/v11 Official Tutorials** — Object detection, model training, custom datasets
-- **Roboflow Computer Vision Tutorials** — Annotation, augmentation, deployment *(Verified Student)*
+- **Roboflow Computer Vision Tutorials** — Annotation, augmentation, deployment (Verified Student)
 - **Murtaza's Workshop OpenCV Tutorials** — Image processing, real-time CV applications
 - **LinkedIn Learning** — Test-Driven Development in C++, Design Patterns (Creational, Structural, Behavioral)
 
@@ -256,10 +246,12 @@ I am committed to continuous learning through high-quality open educational reso
 <br/>
 
 <div align="center">
-  
-  **Email:** muhammadyasir85a@gmail.com  
-  **Location:** Mianwali, Pakistan  
-  **University:** Namal University Mianwali
+
+**Email:** muhammadyasir85a@gmail.com
+
+**Location:** Mianwali, Pakistan
+
+**University:** Namal University Mianwali
 
 </div>
 
@@ -271,7 +263,6 @@ I am committed to continuous learning through high-quality open educational reso
 
 <br/>
 
-<!-- ANIMATED FOOTER -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,50:1E40AF,100:0F172A&height=120&section=footer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=06B6D4&height=100&section=footer" width="100%" />
 </div>
