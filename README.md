@@ -192,13 +192,9 @@ Full generative art web application built in pure HTML, CSS, and JavaScript with
 
 ## GitHub Statistics
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MuhammadYasir85a&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" height="170" />
-  <img src="https://streak-stats.demolab.com/?user=MuhammadYasir85a&theme=dark&hide_border=true" alt="Streak" height="170" />
-</div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadYasir85a&layout=compact&theme=dark&hide_border=true&langs_count=8" alt="Top Languages" height="170" />
+  <img src="https://streak-stats.demolab.com/?user=MuhammadYasir85a&theme=dark&hide_border=true" alt="GitHub Streak" height="170" />
 </div>
 
 <div align="center">
