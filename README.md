@@ -18,25 +18,20 @@ I am a Computer Science undergraduate at **Namal University Mianwali** (CGPA 3.1
 
 I am not yet an engineer — I am a student actively learning, building real projects, and growing toward that goal. My approach is hands-on: I learn by implementing papers, breaking models, fixing bugs, and shipping working systems.
 
-\`\`\`yaml
-Currently:
-  Working on:    Adversarial Privacy Mask (custom loss function research)
-  Learning:      MIT 6.S191 Deep Learning, Andrew Ng ML Specialization
-  Building:      Distributed Cloud Application on Microsoft Azure
-  Exploring:     Computer Vision papers, Adversarial ML, Model Optimization
+**Currently:**
+- **Working on:** Adversarial Privacy Mask (custom loss function research)
+- **Learning:** MIT 6.S191 Deep Learning, Andrew Ng ML Specialization
+- **Building:** Distributed Cloud Application on Microsoft Azure
+- **Exploring:** Computer Vision papers, Adversarial ML, Model Optimization
 
-Aspiring to become:
-  - Computer Vision Engineer
-  - Machine Learning Engineer
-  - AI Research Engineer
+**Aspiring to become:**
+- Computer Vision Engineer
+- Machine Learning Engineer
+- AI Research Engineer
 
-Open to:
-  - Software Engineering Internships
-  - Machine Learning Internships
-  - Computer Vision Internships
-  - Backend Development Internships
-  - Locations: Remote or Pakistan-based
-\`\`\`
+**Open to:**
+- Software Engineering, Machine Learning, Computer Vision, or Backend Internships
+- Locations: Remote or Pakistan-based
 
 ---
 
@@ -50,7 +45,7 @@ Open to:
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Verilog](https://img.shields.io/badge/Verilog-19A974?style=for-the-badge&logoColor=white)
+![Verilog](https://img.shields.io/badge/Verilog-19A974?style=for-the-badge)
 
 </details>
 
@@ -60,13 +55,13 @@ Open to:
 
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![YOLOv11](https://img.shields.io/badge/YOLOv11-111111?style=for-the-badge&logo=yolo&logoColor=00FFFF)
+![YOLOv11](https://img.shields.io/badge/YOLOv11-111111?style=for-the-badge)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
 </details>
@@ -82,7 +77,7 @@ Open to:
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Microsoft Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-25D366?style=for-the-badge&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-25D366?style=for-the-badge)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
 
 </details>
@@ -96,7 +91,7 @@ Open to:
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Roboflow](https://img.shields.io/badge/Roboflow-6706CE?style=for-the-badge&logoColor=white)
+![Roboflow](https://img.shields.io/badge/Roboflow-6706CE?style=for-the-badge)
 ![Cisco Packet Tracer](https://img.shields.io/badge/Cisco_Packet_Tracer-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
 
@@ -205,17 +200,22 @@ I am committed to continuous learning through high-quality open educational reso
 ## GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MuhammadYasir85a&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=06B6D4&icon_color=06B6D4&text_color=C9D1D9" alt="GitHub Stats" height="180" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MuhammadYasir85a&theme=tokyonight&hide_border=true&background=0D1117&stroke=06B6D4&ring=06B6D4&fire=06B6D4&currStreakLabel=06B6D4" alt="GitHub Streak" height="180" />
+  <a href="https://github.com/MuhammadYasir85a">
+    <img src="https://github-readme-stats.vercel.app/api?username=MuhammadYasir85a&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Muhammad Yasir GitHub Stats" height="170" />
+  </a>
+  <a href="https://github.com/MuhammadYasir85a">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=MuhammadYasir85a&theme=tokyonight&hide_border=true" alt="Muhammad Yasir Streak" height="170" />
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadYasir85a&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=06B6D4&text_color=C9D1D9&langs_count=10" alt="Top Languages" height="180" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MuhammadYasir85a&theme=tokyonight" alt="Profile Details" height="180" />
+  <a href="https://github.com/MuhammadYasir85a">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadYasir85a&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" height="170" />
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MuhammadYasir85a&bg_color=0D1117&color=06B6D4&line=06B6D4&point=ffffff&area=true&hide_border=true" alt="Activity Graph" width="100%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=MuhammadYasir85a&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=10" alt="GitHub Trophies" />
 </p>
 
 ---
