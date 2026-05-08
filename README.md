@@ -20,7 +20,6 @@ I am a Computer Science undergraduate at **Namal University Mianwali** (CGPA 3.1
 
 I am not yet an engineer — I am a student actively learning, building real projects, and growing toward that goal. My approach is hands-on: I learn by implementing papers, breaking models, fixing bugs, and shipping working systems.
 
-```yaml
 Currently:
   - Working on:    Adversarial Privacy Mask (custom loss function research)
   - Learning:      MIT 6.S191 Deep Learning, Andrew Ng ML Specialization
